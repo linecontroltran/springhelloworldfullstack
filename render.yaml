@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: springhelloworldfullstack
-    buildCommand: "./gradlew build"
-    startCommand: "java -jar build/libs/hello-0.0.1-SNAPSHOT.jar"
-    plan: free
